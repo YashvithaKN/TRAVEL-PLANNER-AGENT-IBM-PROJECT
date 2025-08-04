@@ -71,7 +71,7 @@ Unique features:
 - By leveraging IBM Cloud AI services, the agent delivers real-time, personalized, and adaptive travel solutions, helping users enjoy a well-organized journey.
 - It shows the practical application of AI in solving real-life logistical challenges while keeping the experience user-friendly and efficient.
 
-# <img width="27" height="25" alt="image" src="https://github.com/user-attachments/assets/b0953de5-baca-4c57-8b47-50821f26448e" /> GITHUB LINK
+# GITHUB LINK
 https://github.com/YashvithaKN/TRAVEL-PLANNER-AGENT-IBM-PROJECT.git
 
 #  FUTURE SCOPE
@@ -93,7 +93,7 @@ https://github.com/YashvithaKN/TRAVEL-PLANNER-AGENT-IBM-PROJECT.git
 # JOURNEY TO CLOUD CERTIFICATE
 ![Journey to Cloud Envisioning Your Solution_page-0001]![WhatsApp Image 2025-08-04 at 5 02 21 PM](https://github.com/user-attachments/assets/ebdb0a33-1c05-4242-90f5-50fdcac53750)
 
-#IBM LAB CERTIFICATE
+# IBM LAB CERTIFICATE
 ![WhatsApp Image 2025-08-04 at 5 02 21 PM (1)](https://github.com/user-attachments/assets/1e415554-14e6-4b3c-b030-99dfdbb8a501)
 
 # THANK YOU
