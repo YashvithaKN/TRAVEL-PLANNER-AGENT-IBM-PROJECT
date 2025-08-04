@@ -51,15 +51,19 @@ Unique features:
 
 #  API REFERENCE AFTER DEPLOYMENT
 
-<img width="1915" height="848" alt="API Reference After Deployment" src="https://github.com/user-attachments/assets/ecba1b1e-6a98-454d-a56d-0cdca91c10da" />
+<img width="1366" height="597" alt="s4" src="https://github.com/user-attachments/assets/8d442047-4db7-41ee-b93d-b1e67414718a" />
 
 #  DEPLOYMENT & PREVIEW
 
-<img width="1916" height="869" alt="Deployment   Preview" src="https://github.com/user-attachments/assets/251609d0-f1fa-4719-a685-938eccad721b" />
+<img width="1366" height="597" alt="s5" src="https://github.com/user-attachments/assets/46848917-937b-4489-b41e-d709bfe28cb9" />
 
 #  RESULTS
 
-<img width="919" height="868" alt="Results" src="https://github.com/user-attachments/assets/995efe8f-698e-4ea3-a38c-516c0b23c506" />
+<img width="1366" height="599" alt="S1" src="https://github.com/user-attachments/assets/66602a48-847e-4906-9aee-2c74c853df7a" />
+
+<img width="1366" height="597" alt="s2" src="https://github.com/user-attachments/assets/d30a3f8f-69c0-486d-9440-09f53545995c" />
+
+<img width="1366" height="583" alt="s3" src="https://github.com/user-attachments/assets/a635d9d2-ebb9-4ef6-a4c2-79e2aab937fa" />
 
 #  CONCLUSION 
 
@@ -89,21 +93,8 @@ https://github.com/YashvithaKN/TRAVEL-PLANNER-AGENT-IBM-PROJECT.git
 # JOURNEY TO CLOUD CERTIFICATE
 ![Journey to Cloud Envisioning Your Solution_page-0001]![WhatsApp Image 2025-08-04 at 5 02 21 PM](https://github.com/user-attachments/assets/ebdb0a33-1c05-4242-90f5-50fdcac53750)
 
-
-
-#  SCREENSHOTS
-
-#  RESOURCES
-<img width="1916" height="861" alt="Screenshot 2025-07-31 145114" src="https://github.com/user-attachments/assets/f83d3e33-cd9d-4ccc-82ec-4bdf4e1d6eef" />
-
-#  TOOLS
-<img width="1919" height="863" alt="Screenshot 2025-07-31 144827" src="https://github.com/user-attachments/assets/eda40bc2-a3ba-472c-a154-68f1f0276d28" />
-
-#  QUICK QUESTIONS
-<img width="1919" height="848" alt="Screenshot 2025-07-31 144744" src="https://github.com/user-attachments/assets/4967b824-a705-4b4f-83f0-187daff678aa" />
-
-#  AGENT INSTRUCTIONS
-<img width="1919" height="867" alt="Screenshot 2025-07-31 144709" src="https://github.com/user-attachments/assets/7f0e1860-c072-4c4d-b127-f3b2f61136cc" />
+#IBM LAB CERTIFICATE
+![WhatsApp Image 2025-08-04 at 5 02 21 PM (1)](https://github.com/user-attachments/assets/1e415554-14e6-4b3c-b030-99dfdbb8a501)
 
 # THANK YOU
 
