@@ -68,7 +68,7 @@ Unique features:
 - It shows the practical application of AI in solving real-life logistical challenges while keeping the experience user-friendly and efficient.
 
 # <img width="27" height="25" alt="image" src="https://github.com/user-attachments/assets/b0953de5-baca-4c57-8b47-50821f26448e" /> GITHUB LINK
-
+https://github.com/YashvithaKN/TRAVEL-PLANNER-AGENT-IBM-PROJECT.git
 
 #  FUTURE SCOPE
 
