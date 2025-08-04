@@ -1,15 +1,17 @@
 #  TRAVEL-PLANNER-AGENT-IBM PROJECT
-It helps users to plan there trips efficiently using IBM Cloud Lite and IBM Granite. It recommends destinations, builds personalized itineraries and suggests transport and accommodation options based on user requirements.
+
+It assists users in efficiently planning their trips by leveraging IBM Cloud Lite and IBM Granite, offering destination recommendations, personalized itineraries, and tailored suggestions for transportation and accommodation based on user preferences.
 
 #  PROBLEM STATEMENT
 
-Design and develop an AI-powered Travel Planner Agent that :
-Plans trips based on user preferences
-Suggests destinations, builds itineraries
-Recommends transport and accommodations
-Uses real-time data (weather, maps, events)
-Manages bookings and alerts
-Optimizes schedules dynamically
+Design and build an AI-driven Travel Planner Agent that:
+Creates travel plans tailored to user preferences
+Recommends destinations and generates customized itineraries
+Suggests transportation and lodging options
+Integrates real-time data such as weather, maps, and local events
+Handles bookings and provides timely alerts
+Dynamically adjusts schedules for optimal planning
+<img width="1731" height="742" alt="image" src="https://github.com/user-attachments/assets/7b7e2aff-2675-4876-bab0-2401cae11647" />
 
 #  TECHNOLOGIES USED
 
