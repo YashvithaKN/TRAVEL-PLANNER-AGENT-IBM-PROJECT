@@ -88,10 +88,10 @@ https://github.com/YashvithaKN/TRAVEL-PLANNER-AGENT-IBM-PROJECT.git
 #  IBM CERTIFICATIONS
 
 # GETTING STARTED WITH AI CERTIFICATE
-![Getting Started with Artificial Intelligence_page-0001]![WhatsApp Image 2025-08-04 at 5 02 20 PM](https://github.com/user-attachments/assets/ad832bc3-fd37-40e5-b186-fe4e34af8b6d)
+![WhatsApp Image 2025-08-04 at 5 02 20 PM](https://github.com/user-attachments/assets/ad832bc3-fd37-40e5-b186-fe4e34af8b6d)
 
 # JOURNEY TO CLOUD CERTIFICATE
-![Journey to Cloud Envisioning Your Solution_page-0001]![WhatsApp Image 2025-08-04 at 5 02 21 PM](https://github.com/user-attachments/assets/ebdb0a33-1c05-4242-90f5-50fdcac53750)
+![WhatsApp Image 2025-08-04 at 5 02 21 PM](https://github.com/user-attachments/assets/ebdb0a33-1c05-4242-90f5-50fdcac53750)
 
 # IBM LAB CERTIFICATE
 ![WhatsApp Image 2025-08-04 at 5 02 21 PM (1)](https://github.com/user-attachments/assets/1e415554-14e6-4b3c-b030-99dfdbb8a501)
