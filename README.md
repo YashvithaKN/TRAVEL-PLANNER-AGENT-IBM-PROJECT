@@ -1,4 +1,4 @@
-#  TRAVEL-PLANNER-AGENT-IBM PROJECT
+#  TRAVEL PLANNER AGENT-IBM AICTE PROJECT
 
 It assists users in efficiently planning their trips by leveraging IBM Cloud Lite and IBM Granite, offering destination recommendations, personalized itineraries, and tailored suggestions for transportation and accommodation based on user preferences.
 
